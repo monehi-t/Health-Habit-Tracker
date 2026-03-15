@@ -22,9 +22,12 @@ The system will consist of a web application, backend API services, and a databa
 
 Actors interacting with the system:
 - User
-- FitPlan System
+- Healt-Habit System
 - External Nutrition API (optional)
 - Email Notification Service
+- User Data Database
+
+
 
 ### Level 2 — Container Diagram ###
 
