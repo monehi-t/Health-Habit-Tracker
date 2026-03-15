@@ -38,7 +38,8 @@ Main containers inside the system:
 - Backend API Server
 - Database
 - Notification Service
-![Alt text]()
+
+![Alt text](Diagrams/Container_Diagram.png)
 
 ### Level 3 — Component Diagram (Backend) ###
 
