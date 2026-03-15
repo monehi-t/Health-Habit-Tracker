@@ -22,11 +22,13 @@ The system will consist of a web application, backend API services, and a databa
 
 Actors interacting with the system:
 - User
-- Healt-Habit System
+- Fit System
 - External Nutrition API (optional)
 - Email Notification Service
 - User Data Database
 
+
+![Alt text](Diagrams/System_Context_Diagram.png)
 
 
 ### Level 2 — Container Diagram ###
@@ -36,6 +38,7 @@ Main containers inside the system:
 - Backend API Server
 - Database
 - Notification Service
+![Alt text]()
 
 ### Level 3 — Component Diagram (Backend) ###
 
@@ -46,4 +49,6 @@ API Server
 - Workout Planner Service
 - Nutrition Tracking Service
 - Progress Analytics Service
-- Notification Scheduler 
+- Notification Scheduler
+
+![Alt text]()
