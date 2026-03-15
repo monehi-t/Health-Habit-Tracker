@@ -22,7 +22,7 @@ The system will consist of a web application, backend API services, and a databa
 
 Actors interacting with the system:
 - User
-- Fit System
+- Fitplan System
 - External Nutrition API (optional)
 - Email Notification Service
 - User Data Database
@@ -52,4 +52,4 @@ API Server
 - Progress Analytics Service
 - Notification Scheduler
 
-![Alt text]()
+![Alt text](Diagrams/Component_Diagram.png)
