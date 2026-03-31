@@ -28,3 +28,17 @@ Additionally, balancing simplicity and completeness was difficult. Including too
 
 Overall, this process improved understanding of system behavior, user interaction, and the importance of validation through testing. It also reinforced how different stages of software engineering are interconnected.
 
+---
+
+## Agile Planning
+
+One of the main challenges in this assignment was prioritizing features while working alone. Acting as both the developer and product owner created internal conflict when deciding which features to include in the sprint.
+
+There was a strong temptation to include more advanced features such as notifications and analytics, but Agile principles required focusing on delivering a functional MVP first. This meant prioritizing essential features like authentication, workout tracking, and meal logging.
+
+Another challenge was estimating effort accurately without a team. Assigning story points required careful judgment of complexity and dependencies between tasks.
+
+Additionally, ensuring traceability between requirements, use cases, and user stories required revisiting previous assignments and maintaining consistency.
+
+Overall, this assignment highlighted the importance of incremental delivery, prioritization, and maintaining alignment between system requirements and development planning.
+
