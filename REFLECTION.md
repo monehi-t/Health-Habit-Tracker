@@ -17,3 +17,17 @@ This assignment highlighted the importance of clearly defining requirements earl
 ### Conclusion
 
 Overall, the process of requirements elicitation improved the clarity and direction of the Health Habit-Tracker system and provided a strong foundation for further development.
+---
+
+## Use Case & Testing
+
+One of the main challenges in this portions of the assignment was translating functional requirements into detailed use cases. While requirements describe what the system should do, use cases required a deeper understanding of how users interact with the system step by step.
+
+Another challenge was ensuring consistency between assignments. All use cases had to align with previously defined functional requirements, which required careful tracing and refinement.
+
+Developing test cases also introduced complexity, especially in ensuring coverage of both normal and edge scenarios. It was important to define clear expected results so that system behavior could be validated effectively.
+
+Additionally, balancing simplicity and completeness was difficult. Including too much detail made the use cases complex, while too little detail reduced clarity.
+
+Overall, this process improved understanding of system behavior, user interaction, and the importance of validation through testing. It also reinforced how different stages of software engineering are interconnected.
+
