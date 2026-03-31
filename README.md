@@ -23,6 +23,10 @@ In today's busy world, maintaining a healthy lifestyle requires consistent track
 ## 📚 Documentation
 - [📊 System Specification](SPECIFICATION.md) - Detailed requirements, user stories, and scope
 - [🏗️ Architecture Documentation](ARCHITECTURE.md) - C4 diagrams and design decisions
-- [📊Stakeholders](STAKEHOLDERS.md)
-- [🏗️Requirements](REQUIREMENTS.md)
-- [🎯Reflection](REFLECTION.md)
+- [Stakeholders](STAKEHOLDERS.md)
+- [Requirements](REQUIREMENTS.md)
+- [Reflection](REFLECTION.md)
+- [Use Case Diagram](USE_CASE_DIAGRAM.md)
+- [Use Cases](USE_CASES.md)
+- [Test Cases](TEST_CASES.md)
+- [Traceability Matrix](TRACEABILITY_MATRIX.md)
