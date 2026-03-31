@@ -23,3 +23,6 @@ In today's busy world, maintaining a healthy lifestyle requires consistent track
 ## 📚 Documentation
 - [📊 System Specification](SPECIFICATION.md) - Detailed requirements, user stories, and scope
 - [🏗️ Architecture Documentation](ARCHITECTURE.md) - C4 diagrams and design decisions
+- [📊Stakeholders](STAKEHOLDERS.md)
+- [🏗️Requirements](REQUIREMENTS.md)
+- [🎯Reflection](REFLECTION.md)
