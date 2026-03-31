@@ -14,9 +14,6 @@ Additionally, conflicts where identified between performance and feature richnes
 
 This assignment highlighted the importance of clearly defining requirements early in the development process. It also showed how different stakeholders have competing priorities that must be balanced carefully.
 
-### Conclusion
-
-Overall, the process of requirements elicitation improved the clarity and direction of the Health Habit-Tracker system and provided a strong foundation for further development.
 ---
 
 ## Use Case & Testing
