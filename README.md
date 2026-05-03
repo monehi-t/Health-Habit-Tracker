@@ -30,3 +30,4 @@ In today's busy world, maintaining a healthy lifestyle requires consistent track
 - [Use Cases](USE_CASES.md)
 - [Test Cases](TEST_CASES.md)
 - [Traceability Matrix](TRACEABILITY_MATRIX.md)
+- [Domain Model](DOMAIN_MODEL.md)
