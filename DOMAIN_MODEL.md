@@ -1,4 +1,4 @@
-# Domain Model & Class Diagram – FitPlan
+# Domain Model & Class Diagram 
 
 ---
 
