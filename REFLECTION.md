@@ -1,6 +1,6 @@
-# Reflection 
+# Health Habit-Tracker Reflection 
 ---
-## Health Habit-Tracker Requirements Engineering
+## Requirements Engineering
 
 ### Challenges Faced
 
@@ -41,4 +41,27 @@ Another challenge was estimating effort accurately without a team. Assigning sto
 Additionally, ensuring traceability between requirements, use cases, and user stories required revisiting previous assignments and maintaining consistency.
 
 Overall, this assignment highlighted the importance of incremental delivery, prioritization, and maintaining alignment between system requirements and development planning.
+
+---
+
+## Domain Modeling & Class Diagram
+
+Designing the domain model and class diagram for the Health Habit Tracker system was one of the most challenging but insightful parts of the project. One of the main difficulties was identifying the correct level of abstraction for entities. Initially, there was a tendency to either overcomplicate the model by introducing too many entities or oversimplify it by merging concepts that should remain separate.
+
+Another challenge was defining relationships accurately. Deciding when to use composition versus association required careful thought. For example, the relationship between WorkoutPlan and Exercise was modeled as composition because exercises cannot exist independently of a workout plan. However, relationships such as User and Meal were modeled as associations since meals can exist independently but are linked to a specific user.
+
+Aligning the class diagram with previous assignments also required revisiting earlier work. Functional requirements, use cases, and user stories had to be consistent with the domain model. This highlighted the importance of traceability in software engineering. For example, the Meal entity directly supports the "Log Meal" use case and the corresponding functional requirement, ensuring continuity across assignments.
+
+Another challenge was defining appropriate methods for each class. It was important to avoid including too much business logic in a single class, which would violate object-oriented design principles. Instead, responsibilities were distributed across classes to maintain modularity and separation of concerns.
+
+Trade-offs were also necessary. While inheritance could have been used for different types of users (e.g., Beginner User, Coach), it was simplified into a single User class with roles to avoid unnecessary complexity. This decision improves maintainability but reduces specialization.
+
+One key lesson learned is the importance of designing systems with future scalability in mind. The modular structure of the class diagram allows for future enhancements, such as integrating wearable devices or adding advanced analytics.
+
+Overall, this assignment improved my understanding of object-oriented design principles, including abstraction, encapsulation, and relationships between classes. It also reinforced the importance of aligning design artifacts with system requirements and user interactions.
+
+---
+
+
+
 
