@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Domain Model
+## Domain Model
 
 ### Overview
 
@@ -47,7 +47,7 @@ The Health Habit Tracker system operates within the health and fitness domain an
 
 ---
 
-## 2. Class Diagram (Mermaid.js)
+## Class Diagram
 
 ```mermaid
 classDiagram
@@ -126,34 +126,12 @@ User "1" -- "0..*" Notification : receives
 
 ---
 
-## 3. Design Decisions
+## Design Decisions
 
 * **Composition (WorkoutPlan → Exercise):** Exercises cannot exist without a workout plan.
 * **Association (User → Meal, Goal, Progress):** These entities exist independently but are linked to the user.
 * **Separation of Concerns:** Each class handles a single responsibility (e.g., Meal handles nutrition tracking).
 * **Scalability Consideration:** Modular design allows future features like AI recommendations or wearable integrations.
-
----
-
-## 4. Alignment with Previous Assignments
-
-* Matches **Functional Requirements**:
-
-  * Meal → FR5 (Log Meals)
-  * WorkoutPlan → FR3 (Create Workout Plan)
-  * Progress → FR7 (Progress Tracking)
-
-* Matches **Use Cases**:
-
-  * UC3 → WorkoutPlan
-  * UC5 → Meal
-  * UC6 → Progress
-
-* Matches **Agile User Stories**:
-
-  * US003 → WorkoutPlan
-  * US005 → Meal
-  * US007 → Progress
 
 ---
 
